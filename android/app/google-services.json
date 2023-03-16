@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "592703648750",
+    "project_id": "talkshawlk-31cbe",
+    "storage_bucket": "talkshawlk-31cbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592703648750:android:ef71d3622b93c411d654ff",
+        "android_client_info": {
+          "package_name": "com.owais.talkshawlk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592703648750-0gjk2a7014srcvpfb9l66ai2u5eb1lds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.owais.talkshawlk",
+            "certificate_hash": "4cfa11494cceb39adf7b92b4143dce9c54186955"
+          }
+        },
+        {
+          "client_id": "592703648750-ubfmam0u0kcm8erq2n50q9us4o0aveq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIK-AwtWo7ifZBMJabV4R1L4D-5IA7jWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592703648750-0n8toqnv5u635h3q3aeq7g5c9fip347r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "592703648750-jpadlu089206rvvkem88je9gmnrpjs8h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.owais.talkshawlk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
